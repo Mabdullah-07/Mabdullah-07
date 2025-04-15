@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 HI, I'm Muhammad Abdullah
 
-<!--
-**Mabdullah-07/Mabdullah-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate AI/ML Model Developer with a passion for building intelligent, scalable systems using Gen AI, LLMs, and modern ML tools.
 
-Here are some ideas to get you started:
+## 🧠 My Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Working with AI Agents & ML Models
+- 📚 Exploring Gen AI, LangChain, and MLOps
+- ⚙️ Experience with tools like Python, TensorFlow, and Hugging Face
+- 🔍 Focused on real-world applications and scalable AI solutions
+
+## 🚀 What I'm Working On
+
+- Gen AI apps powered by LangChain & LLMs  
+- RAG pipelines with vector DBs & embeddings  
+- Automating workflows with AI tools & agents  
+
+## 📬 Connect with Me
+
+- 📧 Email: mabdullah0421@gmail.com
+- 📱 Phone: +923221808695
+
+
+---
+
+> 🧪 Always learning, always building.<!--
